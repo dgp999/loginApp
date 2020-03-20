@@ -20,7 +20,7 @@ padding: 1em;
 
 <body bgcolor="orange">
 
-<header><h2><b> MiRACLE SOFTWARE SYSTEMS </b></h2></header>
+<header><h2><b> RAMBO SOFTWARE SYSTEMS </b></h2></header>
 
 <center>
 
