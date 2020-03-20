@@ -65,7 +65,7 @@ padding: 1em;
 <br>
 <br>
 <br>
-<footer>&copy; Miracle Software Systems, Inc. All Rights Reserved</footer>
+<footer>&copy; :) DGP Software Systems, Inc. All Rights Reserved</footer>
 
 </body>
 </html>
