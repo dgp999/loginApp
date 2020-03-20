@@ -1,3 +1,3 @@
 FROM tomcat:8.0.20-jre8
-COPY login.war /usr/local/tomcat/webapps/
+COPY target/login.war /usr/local/tomcat/webapps/
 
