@@ -9,7 +9,7 @@
 <style>
     header, footer {
 padding: 1em;
-    color: white;
+    color: orange;
     background-color: #312f2f ;
     clear: left;
     text-align: center;
@@ -18,7 +18,7 @@ padding: 1em;
 </style>
 </head>
 
-<body bgcolor="white">
+<body bgcolor="orange">
 
 <header><h2><b> MiRACLE SOFTWARE SYSTEMS </b></h2></header>
 
