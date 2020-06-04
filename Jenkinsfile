@@ -7,10 +7,9 @@ pipeline {
       }
     }
 
-    stage('error') {
+    stage('Build') {
       steps {
-        sh 'sh "mvn clean package"'
-        build 'dgppppp'
+        sh "mvn clean package"
       }
     }
 
